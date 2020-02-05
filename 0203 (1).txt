@@ -1,0 +1,14 @@
+﻿ftp://117.16.94.55
+
+
+1. zoomit : 화면확대
+2. html 편집기
+3. sublimetext
+4. d2coding
+5. w3schools.com, https://opentutorials.org/
+6. html5test.com
+7. https://gs.statcounter.com/
+8. https://www.dothome.co.kr/, https://www.cafe24.com/
+9. iconfinder.com
+10. 자신의 홈페이지를 만들어서 Github에 업로드 하고 가세요.
+
